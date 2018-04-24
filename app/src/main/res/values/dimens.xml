@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="MarginLeftRight4dp">4dp</dimen>
+    <dimen name="Elevation2dp">2dp</dimen>
+    <dimen name="RvItemHeight">150dp</dimen>
+    <dimen name="Padding8dp">8dp</dimen>
+
+</resources>

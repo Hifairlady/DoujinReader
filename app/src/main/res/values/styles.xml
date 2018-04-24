@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppbarTitleStyle">
+
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/colorWhite</item>
+
+    </style>
+
+    <style name="TitleTextStyle">
+
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:text">title</item>
+        <item name="android:maxLines">4</item>
+        <item name="android:fontFamily">@font/alegreya_sc</item>
+        <item name="android:gravity">center_vertical</item>
+
+    </style>
+
+    <style name="PageTextStyle">
+
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:fontFamily">@font/roboto_slab</item>
+        <item name="android:maxLines">1</item>
+
+    </style>
+
+    <style name="CurPageStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:text">@string/current_page_string</item>
+        <item name="android:fontFamily">@font/roboto_slab</item>
+
+    </style>
+</resources>
